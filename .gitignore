@@ -1,0 +1,3 @@
+# Helm chart build artifacts
+*.tgz
+charts/
